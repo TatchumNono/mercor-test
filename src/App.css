@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+@font-face {
+	font-family: "LabilGrotesk";
+	src: local("LabilGrotesk"), url("./fonts/LabilGrotesk-Bold.woff2") format("truetype");
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.text-reveal-section {
+	margin-top: 20rem;
+	padding-top: 0;
+	padding-bottom: 0;
+	background-color: black;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-wrap: nowrap;
+	flex-direction: row;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.text-reveal-wrapper {
+	position: relative;
+	height: 100%;
+	width: 85%;
+	font-family: "LabilGrotesk";
+	display: block;
+	position: sticky;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container {
+	width: 90%;
+	padding: 4rem 4rem;
+	display: block;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.text-pp {
+	--tw-text-opacity: 1;
+	color: rgb(32 32 32 / var(--tw-text-opacity));
 }
