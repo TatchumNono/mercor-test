@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7c5c7bed.css",
-    "main.js": "/static/js/main.8656bf9b.js",
-    "static/js/787.1eac489f.chunk.js": "/static/js/787.1eac489f.chunk.js",
-    "static/media/LabilGrotesk-Bold.woff2": "/static/media/LabilGrotesk-Bold.c3e3c54f199c7adbaf05.woff2",
-    "index.html": "/index.html",
-    "main.7c5c7bed.css.map": "/static/css/main.7c5c7bed.css.map",
-    "main.8656bf9b.js.map": "/static/js/main.8656bf9b.js.map",
-    "787.1eac489f.chunk.js.map": "/static/js/787.1eac489f.chunk.js.map"
+    "main.css": "/mercor-test/static/css/main.c1125737.css",
+    "main.js": "/mercor-test/static/js/main.5366f436.js",
+    "static/js/787.1eac489f.chunk.js": "/mercor-test/static/js/787.1eac489f.chunk.js",
+    "static/media/LabilGrotesk-Bold.woff2": "/mercor-test/static/media/LabilGrotesk-Bold.c3e3c54f199c7adbaf05.woff2",
+    "index.html": "/mercor-test/index.html",
+    "main.c1125737.css.map": "/mercor-test/static/css/main.c1125737.css.map",
+    "main.5366f436.js.map": "/mercor-test/static/js/main.5366f436.js.map",
+    "787.1eac489f.chunk.js.map": "/mercor-test/static/js/787.1eac489f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c5c7bed.css",
-    "static/js/main.8656bf9b.js"
+    "static/css/main.c1125737.css",
+    "static/js/main.5366f436.js"
   ]
 }
